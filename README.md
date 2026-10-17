@@ -31,11 +31,13 @@
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 🚀 Featured Projects
+
 | Project | What it does | Tech | Links |
 |---|---|---|---|
-| Fair Price Predictor | Predicts fair ride fares using Random Forest on Uber trip data | Python, Scikit-learn, Streamlit | [Repo] · [Live App] |
-| Customer Churn Prediction | Predicts telecom churn, ensemble + pipeline, ~X% ROC-AUC | Python, Scikit-learn | [Repo] |
-| Credit Card Fraud Detection | Handles imbalanced data with SMOTE/class weights, F1 = X | Python, Scikit-learn | [Repo] |
+| Fair Price Predictor | Predicts a fair ride fare from trip distance, time of day and passenger count, using a Random Forest trained on real Uber trip data | Python, Scikit-learn, Streamlit | [Repo](https://github.com/Dhani-Bux991/fair-price-predictor) · [Live App](https://farepricepredictorlive.streamlit.app/) |
+| Customer Churn Prediction | Predicts which telecom customers are likely to leave, using a preprocessing pipeline and an ensemble of models | Python, Scikit-learn, Pandas | [Repo](https://github.com/Dhani-Bux991/customer-churn-prediction) |
+| Credit Card Fraud Detection | Detects fraudulent transactions in a highly imbalanced dataset | Python, Scikit-learn, Pandas | [Repo](https://github.com/Dhani-Bux991/credit-card-fraud-detection) |
+| House Price Prediction | Predicts housing prices from location and property features using regression models | Python, Scikit-learn, Pandas | [Repo](https://github.com/Dhani-Bux991/house-price-prediction) |
 
 ## 📈 GitHub Stats
 
