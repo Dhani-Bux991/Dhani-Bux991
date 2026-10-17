@@ -34,10 +34,10 @@
 
 | Project | What it does | Tech | Links |
 |---|---|---|---|
-| Fair Price Predictor | Predicts a fair ride fare from trip distance, time of day and passenger count, using a Random Forest trained on real Uber trip data | Python, Scikit-learn, Streamlit | [Repo](https://github.com/Dhani-Bux991/fair-price-predictor) · [Live App](https://farepricepredictorlive.streamlit.app/) |
+| Fair Price Predictor | Predicts a fair ride fare from trip distance, time of day and passenger count, using a Random Forest trained on real Uber trip data | Python, Scikit-learn, Streamlit | [Repo](https://github.com/Dhani-Bux991/neurofive-ml-track/tree/main/fair-price-predictor) · [Live App](https://farepricepredictorlive.streamlit.app/) |
 | Customer Churn Prediction | Predicts which telecom customers are likely to leave, using a preprocessing pipeline and an ensemble of models | Python, Scikit-learn, Pandas | [Repo](https://github.com/Dhani-Bux991/customer-churn-prediction) |
-| Credit Card Fraud Detection | Detects fraudulent transactions in a highly imbalanced dataset | Python, Scikit-learn, Pandas | [Repo](https://github.com/Dhani-Bux991/credit-card-fraud-detection) |
-| House Price Prediction | Predicts housing prices from location and property features using regression models | Python, Scikit-learn, Pandas | [Repo](https://github.com/Dhani-Bux991/house-price-prediction) |
+| Credit Card Fraud Detection | Detects fraudulent transactions in a highly imbalanced dataset | Python, Scikit-learn, Pandas | [Notebook](https://github.com/Dhani-Bux991/neurofive-ml-track/blob/main/creditcard-fraud-detection.ipynb) |
+| House Price Prediction | Predicts housing prices from property features using regression models | Python, Scikit-learn, Pandas | [Notebook](https://github.com/Dhani-Bux991/neurofive-ml-track/blob/main/house-price-prediction.ipynb) |
 
 ## 📈 GitHub Stats
 
